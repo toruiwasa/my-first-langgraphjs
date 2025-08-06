@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@langchain/aws": "^0.1.12",
+    "@langchain/community": "^0.3.49",
+    "@langchain/core": "^0.3.66",
+    "@langchain/langgraph": "^0.3.11",
+    "zod": "^4.0.10"
+  },
+  "resolutions": {
+    "@langchain/core": "^0.3.66"
+  },
+  "overrides": {
+    "@langchain/core": "^0.3.66"
+  },
+  "pnpm": {
+    "overrides": {
+      "@langchain/core": "^0.3.66"
+    }
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.1"
+  }
+}
